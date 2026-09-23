@@ -17,7 +17,7 @@ This command removes the selected package for Android user `0`, which is normall
 cmd package install-existing --user 0 <package.name>
 ```
 
-The package list below contains **93 unique packages** included in `uninstall_packages.sh`. Application names are common names or functional descriptions. The exact display name may vary by device model, Android version, Samsung One UI version, carrier, and region. Some entries are system services and do not have a separate app icon.
+The package list below contains **93 unique packages** included in `lite.sh`. Application names are common names or functional descriptions. The exact display name may vary by device model, Android version, Samsung One UI version, carrier, and region. Some entries are system services and do not have a separate app icon.
 
 ## Removed Package Summary
 
